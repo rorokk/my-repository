@@ -29,7 +29,8 @@ text
 4. a
 
 
-Link: [Goold]:http://google.com
+Link: [Google][googlelink]
+[googlelink]:http://google.com
 
 
 
