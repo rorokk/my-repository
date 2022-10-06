@@ -12,7 +12,7 @@ This is code
 
 text
     code
-    
-    text
+
+text
     
 
